@@ -4,7 +4,7 @@ The goal of this project was to recreate the game Duck-Hunt in C using the CSFML
 
 How to play :
 
-Download the latest release here [GOOGLE](https://google.com)
+Download the latest release here : [LATEST RELEASE](https://github.com/shookx/MyHunter/releases/tag/v1.0.0)
 
 Now launch the binary named "my_hunter".
 
