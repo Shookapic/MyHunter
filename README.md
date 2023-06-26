@@ -1,6 +1,7 @@
 # MyHunter :duck:
 
 The goal of this project was to recreate the game Duck-Hunt in C using the CSFML library.
+This projetc was made in only one week.
 
 How to play :
 
